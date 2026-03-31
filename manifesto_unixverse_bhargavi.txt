@@ -1,0 +1,4 @@
+On 31 March 2026, I reflect on the power of open source.
+Using tools like Git, I experience the idea of innovation in technology.
+I believe in building and sharing projects like Signal Processing Unit so that others can learn, improve, and innovate.
+Open source is not just code, it is a commitment to collaboration, transparency, and collective growth.
