@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Bhargavi Hulke
+- Name: Bhargavi G. Hulke
 - Roll Number: 24BEC10135
 - Course: Open Source Software
 
